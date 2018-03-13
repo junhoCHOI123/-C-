@@ -1,0 +1,6 @@
+C:\Users\singa\Desktop\리눅스\프로젝트\180312\180312\bin\Debug\180312.exe.config
+C:\Users\singa\Desktop\리눅스\프로젝트\180312\180312\bin\Debug\180312.exe
+C:\Users\singa\Desktop\리눅스\프로젝트\180312\180312\bin\Debug\180312.pdb
+C:\Users\singa\Desktop\리눅스\프로젝트\180312\180312\obj\Debug\180312.csprojResolveAssemblyReference.cache
+C:\Users\singa\Desktop\리눅스\프로젝트\180312\180312\obj\Debug\180312.exe
+C:\Users\singa\Desktop\리눅스\프로젝트\180312\180312\obj\Debug\180312.pdb

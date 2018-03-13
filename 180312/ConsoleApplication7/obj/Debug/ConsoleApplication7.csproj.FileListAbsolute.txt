@@ -1,0 +1,6 @@
+C:\Users\singa\Desktop\리눅스\프로젝트\180312\ConsoleApplication7\bin\Debug\ConsoleApplication7.exe.config
+C:\Users\singa\Desktop\리눅스\프로젝트\180312\ConsoleApplication7\bin\Debug\ConsoleApplication7.exe
+C:\Users\singa\Desktop\리눅스\프로젝트\180312\ConsoleApplication7\bin\Debug\ConsoleApplication7.pdb
+C:\Users\singa\Desktop\리눅스\프로젝트\180312\ConsoleApplication7\obj\Debug\ConsoleApplication7.csprojResolveAssemblyReference.cache
+C:\Users\singa\Desktop\리눅스\프로젝트\180312\ConsoleApplication7\obj\Debug\ConsoleApplication7.exe
+C:\Users\singa\Desktop\리눅스\프로젝트\180312\ConsoleApplication7\obj\Debug\ConsoleApplication7.pdb

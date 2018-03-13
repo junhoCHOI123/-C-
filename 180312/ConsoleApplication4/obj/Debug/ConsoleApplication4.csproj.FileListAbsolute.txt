@@ -1,0 +1,5 @@
+C:\Users\singa\Desktop\리눅스\프로젝트\180312\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe.config
+C:\Users\singa\Desktop\리눅스\프로젝트\180312\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe
+C:\Users\singa\Desktop\리눅스\프로젝트\180312\ConsoleApplication4\bin\Debug\ConsoleApplication4.pdb
+C:\Users\singa\Desktop\리눅스\프로젝트\180312\ConsoleApplication4\obj\Debug\ConsoleApplication4.exe
+C:\Users\singa\Desktop\리눅스\프로젝트\180312\ConsoleApplication4\obj\Debug\ConsoleApplication4.pdb

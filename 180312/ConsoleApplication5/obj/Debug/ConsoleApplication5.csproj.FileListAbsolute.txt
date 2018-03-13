@@ -1,0 +1,6 @@
+C:\Users\singa\Desktop\리눅스\프로젝트\180312\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe.config
+C:\Users\singa\Desktop\리눅스\프로젝트\180312\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe
+C:\Users\singa\Desktop\리눅스\프로젝트\180312\ConsoleApplication5\bin\Debug\ConsoleApplication5.pdb
+C:\Users\singa\Desktop\리눅스\프로젝트\180312\ConsoleApplication5\obj\Debug\ConsoleApplication5.exe
+C:\Users\singa\Desktop\리눅스\프로젝트\180312\ConsoleApplication5\obj\Debug\ConsoleApplication5.pdb
+C:\Users\singa\Desktop\리눅스\프로젝트\180312\ConsoleApplication5\obj\Debug\ConsoleApplication5.csprojResolveAssemblyReference.cache

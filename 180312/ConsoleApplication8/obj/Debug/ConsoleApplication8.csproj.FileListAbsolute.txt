@@ -1,0 +1,5 @@
+C:\Users\singa\Desktop\리눅스\프로젝트\180312\ConsoleApplication8\bin\Debug\ConsoleApplication8.exe.config
+C:\Users\singa\Desktop\리눅스\프로젝트\180312\ConsoleApplication8\bin\Debug\ConsoleApplication8.exe
+C:\Users\singa\Desktop\리눅스\프로젝트\180312\ConsoleApplication8\bin\Debug\ConsoleApplication8.pdb
+C:\Users\singa\Desktop\리눅스\프로젝트\180312\ConsoleApplication8\obj\Debug\ConsoleApplication8.exe
+C:\Users\singa\Desktop\리눅스\프로젝트\180312\ConsoleApplication8\obj\Debug\ConsoleApplication8.pdb
